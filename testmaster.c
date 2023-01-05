@@ -2,7 +2,7 @@
 
 int main()
 {
-    a = 10;
+    int a = 10;
     
     printf("Hi, rower.\n Where #\n");
 }
